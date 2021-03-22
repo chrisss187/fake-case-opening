@@ -1,0 +1,218 @@
+"Phrases"
+{
+	"Chat message"
+	{
+		"en"		"has opened a container and found:"
+		"hu"		"nyitott egy ládát és ezt találta benne:"
+	}
+	
+	"Select knife:"
+	{
+		"en"		"Select knife:"
+		"hu"		"Válasszon kést:"
+	}
+	
+	"Butterfly knife"
+	{
+		"en"		"Butterfly knife"
+		"hu"		"Pillangó kés"
+	}
+	
+	"Shadow Daggers"
+	{
+		"en"		"Shadow Daggers"
+		"hu"		"Árnyéktőr"
+	}
+	
+	"Karambit"
+	{
+		"en"		"Karambit"
+		"hu"		"Karambit"
+	}
+	
+	"Falchion knife"
+	{
+		"en"		"Falchion knife"
+		"hu"		"Handzsárkés"
+	}
+	
+	"M9 Bayonet"
+	{
+		"en"		"M9 Bayonet"
+		"hu"		"M9 bajonett"
+	}
+	
+	"Bayonet"
+	{
+		"en"		"Bayonet"
+		"hu"		"Bajonett"
+	}
+	
+	"Flip knife"
+	{
+		"en"		"Flip knife"
+		"hu"		"Összecsukható kés"
+	}
+	
+	"Gut knife"
+	{
+		"en"		"Gut knife"
+		"hu"		"Zsigerlőkés"
+	}
+	
+	"Huntsman knife"
+	{
+		"en"		"Huntsman knife"
+		"hu"		"Vadászkés"
+	}
+	
+	"Ursus knife"
+	{
+		"en"	"Ursus knife"
+		"hu"	"Ursus kés"
+	}
+	
+	"Navaja"
+	{
+		"en"	"Navaja knife"
+		"hu"	"Navaja kés
+	}
+	
+	"Stiletto"
+	{
+		"en"	"Stiletto"
+		"hu"	"Stiletto kés"
+	}
+	
+	"Talon"
+	{
+		"en"	"Talon"
+		"hu"	"Talon kés"
+	}
+	
+	"Classic Knife"
+	{
+		"en"	"Classic Knife"
+		"hu"	"Klasszikus kés"
+	}
+	
+	"Paracord Knife"
+	{
+		"en"	"Paracord Knife"
+		"hu"	"Paracord kés"
+	}
+	
+	"Survival Knife"
+	{
+		"en"	"Survival Knife"
+		"hu"	"Túlélő kés"
+	}
+	
+	"Nomad Knife"
+	{
+		"en"	"Nomad Knife"
+		"hu"	"Nomád kés"
+	}
+	
+	"Skeleton Knife"
+	{
+		"en"	"Skeleton Knife"
+		"hu"	"Csontváz kés
+	}
+	
+	"Select knife skin:"
+	{
+		"en"		"Select knife skin:"
+		"hu"		"Válassza ki a kés mintázatát:"
+	}
+	
+	"Blue Steel"
+	{
+		"en"		"Blue Steel"
+		"hu"		"Kék acél"
+	}
+	
+	"Boreal Forest"
+	{
+		"en"		"Boreal Forest"
+		"hu"		"Északi Erdő"
+	}
+	
+	"Case Hardened"
+	{
+		"en"		"Case Hardened"
+		"hu"		"Edzett"
+	}
+	
+	"Damascus Steel"
+	{
+		"en"		"Damascus Steel"
+		"hu"		"Damaszkuszi Acél"
+	}
+	
+	"Doppler"
+	{
+		"en"		"Doppler"
+		"hu"		"Doppler"
+	}
+	
+	"Fade"
+	{
+		"en"		"Fade"
+		"hu"		"Halványulás"
+	}
+	
+	"Forest DDPAT"
+	{
+		"en"		"Forest DDPAT"
+		"hu"		"Erdő DDPAT"
+	}
+	
+	"Marble Fade"
+	{
+		"en"		"Marble Fade"
+		"hu"		"Fakuló Márvány"
+	}
+	
+	"Safari Mesh"
+	{
+		"en"		"Safari Mesh"
+		"hu"		"Szafari Háló"
+	}
+	
+	"Scorched"
+	{
+		"en"		"Scorched"
+		"hu"		"Megperzselt"		
+	}
+	
+	"Slaughter"
+	{
+		"en"		"Slaughter"
+		"hu"		"Mészárlás"
+	}
+	
+	"Stained"
+	{
+		"en"		"Stained"
+		"hu"		"Foltos"
+	}
+	
+	"Tiger Tooth"
+	{
+		"en"		"Tiger Tooth"
+		"hu"		"Tigris fog"
+	}
+	
+	"Urban Masked"
+	{
+		"en"		"Urban Masked"
+		"hu"		"Városi Maszkolt"
+	}
+	
+	"Select knife:"
+	{
+		"en"		"Select knife:"
+		"hu"		"Válasszon kést:"
+	}
+}
